@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621796018 source:c:\users\sarah hesham\onedrive\documents\c++\a2 ds problem no. 2 sorting\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<chrono>
+	<thread>
+

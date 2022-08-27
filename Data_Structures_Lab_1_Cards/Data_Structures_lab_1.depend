@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618575250 source:c:\users\sarah hesham\onedrive\documents\c++\data_structures_lab_1\main.cpp
+	<iostream>
+	<cstdlib>
+
